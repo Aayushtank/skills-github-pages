@@ -1,4 +1,4 @@
 ---
-title: # Welcome to aayush blog
+title:  Welcome to aayush blog
 ---
 
